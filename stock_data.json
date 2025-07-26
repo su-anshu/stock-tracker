@@ -1,0 +1,1822 @@
+{
+  "stock_data": {
+    "SATTU": {
+      "loose_stock": 0,
+      "packed_stock": {
+        "B0CWGY2LCP": 0,
+        "B0DK1H56P3": 0,
+        "B0DYVJ8PGL": 0,
+        "B0CWGXYLT6": 0,
+        "B0DK1LJ3N3": 0
+      },
+      "opening_stock": 0,
+      "last_updated": "2025-07-25T22:21:40.382447"
+    },
+    "ROASTED_CHANA": {
+      "loose_stock": 0,
+      "packed_stock": {
+        "B0DDJK1VW4": 0,
+        "B0CY88658Y": 0,
+        "B0CY84RYRG": 0,
+        "B0CY84YB45": 0,
+        "B0CY85DH38": 0
+      },
+      "opening_stock": 0,
+      "last_updated": "2025-07-25T22:21:40.382475"
+    },
+    "GOVIND_BHOG_RICE": {
+      "loose_stock": 0,
+      "packed_stock": {
+        "B0D11KTZ1X": 0,
+        "B0DDJJ8TYJ": 0,
+        "B0DDJK3LXC": 0,
+        "B0DDJHN6PD": 0,
+        "B0D11K2CVX": 0
+      },
+      "opening_stock": 0,
+      "last_updated": "2025-07-25T22:21:40.382479"
+    },
+    "KATARNI_CHUDA": {
+      "loose_stock": 0,
+      "packed_stock": {
+        "B0DDJJCRP8": 0,
+        "B0DCCL1531": 0,
+        "B0DDJH9MX5": 0,
+        "B0D1VPNHZL": 0
+      },
+      "opening_stock": 0,
+      "last_updated": "2025-07-25T22:21:40.382483"
+    },
+    "MOORI": {
+      "loose_stock": 0,
+      "packed_stock": {
+        "B0D8157HND": 0,
+        "B0D817HX57": 0,
+        "B0D8153SJN": 0,
+        "B0DYVHTS3T": 0
+      },
+      "opening_stock": 0,
+      "last_updated": "2025-07-25T22:21:40.382487"
+    },
+    "MAKHANA": {
+      "loose_stock": 0,
+      "packed_stock": {
+        "B0DDTYNC85": 0,
+        "B0DDTWVB98": 0,
+        "B0DDTWSHXP": 0
+      },
+      "opening_stock": 0,
+      "last_updated": "2025-07-25T22:21:40.382490"
+    },
+    "USNA_CHAWAL": {
+      "loose_stock": 0,
+      "packed_stock": {
+        "B0DF5PHH3K": 0,
+        "B0DF5Q9VBV": 0,
+        "B0DF5LY1W7": 0,
+        "B0DF5PYWJ9": 0,
+        "B0DF5MNP4Q": 0
+      },
+      "opening_stock": 0,
+      "last_updated": "2025-07-25T22:21:40.382494"
+    },
+    "POWER_PUNCH": {
+      "loose_stock": 0,
+      "packed_stock": {
+        "B0DK6TCBB1": 0,
+        "B0DK6V3MZ1": 0,
+        "B0DK6T745Y": 0,
+        "B0DK6V5Z4W": 0
+      },
+      "opening_stock": 0,
+      "last_updated": "2025-07-25T22:21:40.382497"
+    },
+    "HERBAL_GULAL": {
+      "loose_stock": 0,
+      "packed_stock": {
+        "B0DVCV6PBP": 0
+      },
+      "opening_stock": 0,
+      "last_updated": "2025-07-25T22:21:40.382501"
+    },
+    "PERI_PERI_CHANA": {
+      "loose_stock": 0,
+      "packed_stock": {
+        "B0DWF8SFWY": 0,
+        "B0DWF8D1YQ": 0,
+        "B0DWF9ZPQG": 0
+      },
+      "opening_stock": 0,
+      "last_updated": "2025-07-25T22:21:40.382503"
+    },
+    "CHEESE_&_CREAM_CHANA": {
+      "loose_stock": 0,
+      "packed_stock": {
+        "B0DWF9CDVW": 0,
+        "B0DWFBSH89": 0,
+        "B0DWF5MT34": 0
+      },
+      "opening_stock": 0,
+      "last_updated": "2025-07-25T22:21:40.382506"
+    },
+    "NIMBU_PUDINA_CHANA": {
+      "loose_stock": 0,
+      "packed_stock": {
+        "B0DWF8RCHZ": 0,
+        "B0DWF8DS3F": 0,
+        "B0DWF9Z6F2": 0
+      },
+      "opening_stock": 0,
+      "last_updated": "2025-07-25T22:21:40.382510"
+    },
+    "HING_JEERA_CHANA": {
+      "loose_stock": 0,
+      "packed_stock": {
+        "B0DWFGYRZ7": 0,
+        "B0DWF8TDGV": 0,
+        "B0DWF7SZJN": 0
+      },
+      "opening_stock": 0,
+      "last_updated": "2025-07-25T22:21:40.382513"
+    },
+    "SINGHARA_ATTA": {
+      "loose_stock": 0,
+      "packed_stock": {
+        "B0DWK8VBGJ": 0,
+        "B0DWK8K6FZ": 0,
+        "B0DWK9S8SB": 0,
+        "B0DWKBCJY1": 0
+      },
+      "opening_stock": 0,
+      "last_updated": "2025-07-25T22:21:40.382516"
+    },
+    "KATARNI_ARWA_RICE": {
+      "loose_stock": 0,
+      "packed_stock": {
+        "B0DXQBYB35": 0,
+        "B0DXQCR5RW": 0,
+        "B0DXQC2349": 0,
+        "B0DXQBD78C": 0,
+        "B0DXQCPD4R": 0
+      },
+      "opening_stock": 0,
+      "last_updated": "2025-07-25T22:21:40.382519"
+    },
+    "JEERA_SATTU": {
+      "loose_stock": 0,
+      "packed_stock": {
+        "B0DYP6CLL7": 0,
+        "B0DYP5QTS1": 0,
+        "B0DYP4DLNB": 0,
+        "B0DYP5QVW8": 0
+      },
+      "opening_stock": 0,
+      "last_updated": "2025-07-25T22:21:40.382522"
+    },
+    "RAGI_ATTA": {
+      "loose_stock": 0,
+      "packed_stock": {
+        "B0F8W7HLQ6": 0,
+        "B0F8W63B6C": 0,
+        "B0F8WBLBKS": 0
+      },
+      "opening_stock": 0,
+      "last_updated": "2025-07-25T22:21:40.382526"
+    },
+    "CHATPATA_MASALA_CHANA": {
+      "loose_stock": 0,
+      "packed_stock": {
+        "B0F9YHP79C": 0,
+        "B0F9YF9ZZN": 0,
+        "B0F9YGS1GY": 0
+      },
+      "opening_stock": 0,
+      "last_updated": "2025-07-25T22:21:40.382529"
+    },
+    "ARWA_CHAWAL": {
+      "loose_stock": 0,
+      "packed_stock": {
+        "B0F9YR7SQT": 0,
+        "B0F9YPQCR8": 0,
+        "B0F9YR81BZ": 0
+      },
+      "opening_stock": 0,
+      "last_updated": "2025-07-25T22:21:40.382532"
+    },
+    "JAU_ATTA": {
+      "loose_stock": 0,
+      "packed_stock": {
+        "B0FBHRZ1PQ": 0,
+        "B0FBHSCGPD": 0,
+        "B0FBJ2V43Y": 0
+      },
+      "opening_stock": 0,
+      "last_updated": "2025-07-25T22:21:40.382535"
+    },
+    "MAKAI_ATTA": {
+      "loose_stock": 0,
+      "packed_stock": {
+        "B0FBKFHQ44": 0,
+        "B0FBKDTM51": 0,
+        "B0FBKDZY5F": 0
+      },
+      "opening_stock": 0,
+      "last_updated": "2025-07-25T22:21:40.382538"
+    },
+    "RICE_ATTA": {
+      "loose_stock": 0,
+      "packed_stock": {
+        "B0FBKCLZZS": 0,
+        "B0FBKDWK6M": 0,
+        "B0FBKD14MH": 0
+      },
+      "opening_stock": 0,
+      "last_updated": "2025-07-25T22:21:40.382541"
+    },
+    "JAU_SATTU": {
+      "loose_stock": 0,
+      "packed_stock": {
+        "B0FCZK156M": 0,
+        "B0FD1BPYT3": 0,
+        "B0FCZS5F82": 0
+      },
+      "opening_stock": 0,
+      "last_updated": "2025-07-25T22:21:40.382544"
+    }
+  },
+  "transactions": [
+    {
+      "id": 1,
+      "timestamp": "2025-07-25T22:21:40.383304",
+      "date": "2025-07-25",
+      "type": "COMPLETE_SYSTEM_RESET",
+      "parent_id": "SYSTEM",
+      "parent_name": "System Operation",
+      "asin": null,
+      "quantity": 0,
+      "weight": 0,
+      "notes": "Complete system reset | Reason: DD | Stock items reset: 0 | Transactions deleted: 412 | Return transactions deleted: 6 | Loose stock reset: 0.0 kg | Packed stock reset: 0 units"
+    }
+  ],
+  "parent_items": {
+    "SATTU": {
+      "name": "Sattu",
+      "unit": "kg",
+      "category": "nan",
+      "reorder_level": 50.0
+    },
+    "ROASTED_CHANA": {
+      "name": "Roasted Chana",
+      "unit": "kg",
+      "category": "nan",
+      "reorder_level": 5.0
+    },
+    "GOVIND_BHOG_RICE": {
+      "name": "Govind Bhog Rice",
+      "unit": "kg",
+      "category": "nan",
+      "reorder_level": 5.0
+    },
+    "KATARNI_CHUDA": {
+      "name": "katarni chuda",
+      "unit": "kg",
+      "category": "nan",
+      "reorder_level": 5.0
+    },
+    "MOORI": {
+      "name": "Moori",
+      "unit": "kg",
+      "category": "nan",
+      "reorder_level": 5.0
+    },
+    "MAKHANA": {
+      "name": "Makhana",
+      "unit": "kg",
+      "category": "nan",
+      "reorder_level": 5.0
+    },
+    "USNA_CHAWAL": {
+      "name": "Usna Chawal",
+      "unit": "kg",
+      "category": "nan",
+      "reorder_level": 5.0
+    },
+    "POWER_PUNCH": {
+      "name": "Power punch",
+      "unit": "kg",
+      "category": "nan",
+      "reorder_level": 5.0
+    },
+    "HERBAL_GULAL": {
+      "name": "Herbal Gulal",
+      "unit": "kg",
+      "category": "nan",
+      "reorder_level": 5.0
+    },
+    "PERI_PERI_CHANA": {
+      "name": "Peri Peri Chana",
+      "unit": "kg",
+      "category": "nan",
+      "reorder_level": 5.0
+    },
+    "CHEESE_&_CREAM_CHANA": {
+      "name": "Cheese & Cream Chana",
+      "unit": "kg",
+      "category": "nan",
+      "reorder_level": 5.0
+    },
+    "NIMBU_PUDINA_CHANA": {
+      "name": "Nimbu Pudina Chana",
+      "unit": "kg",
+      "category": "nan",
+      "reorder_level": 5.0
+    },
+    "HING_JEERA_CHANA": {
+      "name": "Hing Jeera chana",
+      "unit": "kg",
+      "category": "nan",
+      "reorder_level": 5.0
+    },
+    "SINGHARA_ATTA": {
+      "name": "Singhara atta",
+      "unit": "kg",
+      "category": "nan",
+      "reorder_level": 5.0
+    },
+    "KATARNI_ARWA_RICE": {
+      "name": "Katarni Arwa rice",
+      "unit": "kg",
+      "category": "nan",
+      "reorder_level": 5.0
+    },
+    "JEERA_SATTU": {
+      "name": "Jeera Sattu",
+      "unit": "kg",
+      "category": "nan",
+      "reorder_level": 5.0
+    },
+    "RAGI_ATTA": {
+      "name": "Ragi Atta",
+      "unit": "kg",
+      "category": "nan",
+      "reorder_level": 5.0
+    },
+    "CHATPATA_MASALA_CHANA": {
+      "name": "Chatpata Masala Chana",
+      "unit": "kg",
+      "category": "nan",
+      "reorder_level": 5.0
+    },
+    "ARWA_CHAWAL": {
+      "name": "Arwa Chawal",
+      "unit": "kg",
+      "category": "nan",
+      "reorder_level": 5.0
+    },
+    "JAU_ATTA": {
+      "name": "Jau Atta",
+      "unit": "kg",
+      "category": "nan",
+      "reorder_level": 5.0
+    },
+    "MAKAI_ATTA": {
+      "name": "Makai Atta",
+      "unit": "kg",
+      "category": "nan",
+      "reorder_level": 5.0
+    },
+    "RICE_ATTA": {
+      "name": "Rice Atta",
+      "unit": "kg",
+      "category": "nan",
+      "reorder_level": 5.0
+    },
+    "JAU_SATTU": {
+      "name": "Jau Sattu",
+      "unit": "kg",
+      "category": "nan",
+      "reorder_level": 5.0
+    }
+  },
+  "packet_variations": {
+    "SATTU": {
+      "B0CWGY2LCP": {
+        "weight": 1.5,
+        "asin": "B0CWGY2LCP",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0DK1H56P3": {
+        "weight": 2.0,
+        "asin": "B0DK1H56P3",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0DYVJ8PGL": {
+        "weight": 3.0,
+        "asin": "B0DYVJ8PGL",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0CWGXYLT6": {
+        "weight": 0.5,
+        "asin": "B0CWGXYLT6",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0DK1LJ3N3": {
+        "weight": 1.0,
+        "asin": "B0DK1LJ3N3",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      }
+    },
+    "ROASTED_CHANA": {
+      "B0DDJK1VW4": {
+        "weight": 0.2,
+        "asin": "B0DDJK1VW4",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0CY88658Y": {
+        "weight": 0.5,
+        "asin": "B0CY88658Y",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0CY84RYRG": {
+        "weight": 1.0,
+        "asin": "B0CY84RYRG",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0CY84YB45": {
+        "weight": 1.5,
+        "asin": "B0CY84YB45",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0CY85DH38": {
+        "weight": 2.0,
+        "asin": "B0CY85DH38",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      }
+    },
+    "GOVIND_BHOG_RICE": {
+      "B0D11KTZ1X": {
+        "weight": 1.0,
+        "asin": "B0D11KTZ1X",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0DDJJ8TYJ": {
+        "weight": 2.0,
+        "asin": "B0DDJJ8TYJ",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0DDJK3LXC": {
+        "weight": 3.0,
+        "asin": "B0DDJK3LXC",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0DDJHN6PD": {
+        "weight": 4.0,
+        "asin": "B0DDJHN6PD",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0D11K2CVX": {
+        "weight": 5.0,
+        "asin": "B0D11K2CVX",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      }
+    },
+    "KATARNI_CHUDA": {
+      "B0DDJJCRP8": {
+        "weight": 1.0,
+        "asin": "B0DDJJCRP8",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0DCCL1531": {
+        "weight": 2.0,
+        "asin": "B0DCCL1531",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0DDJH9MX5": {
+        "weight": 4.0,
+        "asin": "B0DDJH9MX5",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0D1VPNHZL": {
+        "weight": 5.0,
+        "asin": "B0D1VPNHZL",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      }
+    },
+    "MOORI": {
+      "B0D8157HND": {
+        "weight": 0.25,
+        "asin": "B0D8157HND",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0D817HX57": {
+        "weight": 0.5,
+        "asin": "B0D817HX57",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0D8153SJN": {
+        "weight": 1.0,
+        "asin": "B0D8153SJN",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0DYVHTS3T": {
+        "weight": 2.0,
+        "asin": "B0DYVHTS3T",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      }
+    },
+    "MAKHANA": {
+      "B0DDTYNC85": {
+        "weight": 0.1,
+        "asin": "B0DDTYNC85",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0DDTWVB98": {
+        "weight": 0.2,
+        "asin": "B0DDTWVB98",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0DDTWSHXP": {
+        "weight": 0.4,
+        "asin": "B0DDTWSHXP",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      }
+    },
+    "USNA_CHAWAL": {
+      "B0DF5PHH3K": {
+        "weight": 1.0,
+        "asin": "B0DF5PHH3K",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0DF5Q9VBV": {
+        "weight": 2.0,
+        "asin": "B0DF5Q9VBV",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0DF5LY1W7": {
+        "weight": 3.0,
+        "asin": "B0DF5LY1W7",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0DF5PYWJ9": {
+        "weight": 4.0,
+        "asin": "B0DF5PYWJ9",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0DF5MNP4Q": {
+        "weight": 5.0,
+        "asin": "B0DF5MNP4Q",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      }
+    },
+    "POWER_PUNCH": {
+      "B0DK6TCBB1": {
+        "weight": 0.5,
+        "asin": "B0DK6TCBB1",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0DK6V3MZ1": {
+        "weight": 1.0,
+        "asin": "B0DK6V3MZ1",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0DK6T745Y": {
+        "weight": 1.5,
+        "asin": "B0DK6T745Y",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0DK6V5Z4W": {
+        "weight": 2.0,
+        "asin": "B0DK6V5Z4W",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      }
+    },
+    "HERBAL_GULAL": {
+      "B0DVCV6PBP": {
+        "weight": 0.5,
+        "asin": "B0DVCV6PBP",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      }
+    },
+    "PERI_PERI_CHANA": {
+      "B0DWF8SFWY": {
+        "weight": 0.25,
+        "asin": "B0DWF8SFWY",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0DWF8D1YQ": {
+        "weight": 0.5,
+        "asin": "B0DWF8D1YQ",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0DWF9ZPQG": {
+        "weight": 1.0,
+        "asin": "B0DWF9ZPQG",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      }
+    },
+    "CHEESE_&_CREAM_CHANA": {
+      "B0DWF9CDVW": {
+        "weight": 0.25,
+        "asin": "B0DWF9CDVW",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0DWFBSH89": {
+        "weight": 0.5,
+        "asin": "B0DWFBSH89",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0DWF5MT34": {
+        "weight": 1.0,
+        "asin": "B0DWF5MT34",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      }
+    },
+    "NIMBU_PUDINA_CHANA": {
+      "B0DWF8RCHZ": {
+        "weight": 0.25,
+        "asin": "B0DWF8RCHZ",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0DWF8DS3F": {
+        "weight": 0.5,
+        "asin": "B0DWF8DS3F",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0DWF9Z6F2": {
+        "weight": 1.0,
+        "asin": "B0DWF9Z6F2",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      }
+    },
+    "HING_JEERA_CHANA": {
+      "B0DWFGYRZ7": {
+        "weight": 0.25,
+        "asin": "B0DWFGYRZ7",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0DWF8TDGV": {
+        "weight": 0.5,
+        "asin": "B0DWF8TDGV",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0DWF7SZJN": {
+        "weight": 1.0,
+        "asin": "B0DWF7SZJN",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      }
+    },
+    "SINGHARA_ATTA": {
+      "B0DWK8VBGJ": {
+        "weight": 0.25,
+        "asin": "B0DWK8VBGJ",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0DWK8K6FZ": {
+        "weight": 0.5,
+        "asin": "B0DWK8K6FZ",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0DWK9S8SB": {
+        "weight": 1.0,
+        "asin": "B0DWK9S8SB",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0DWKBCJY1": {
+        "weight": 2.0,
+        "asin": "B0DWKBCJY1",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      }
+    },
+    "KATARNI_ARWA_RICE": {
+      "B0DXQBYB35": {
+        "weight": 1.0,
+        "asin": "B0DXQBYB35",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0DXQCR5RW": {
+        "weight": 2.0,
+        "asin": "B0DXQCR5RW",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0DXQC2349": {
+        "weight": 3.0,
+        "asin": "B0DXQC2349",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0DXQBD78C": {
+        "weight": 4.0,
+        "asin": "B0DXQBD78C",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0DXQCPD4R": {
+        "weight": 5.0,
+        "asin": "B0DXQCPD4R",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      }
+    },
+    "JEERA_SATTU": {
+      "B0DYP6CLL7": {
+        "weight": 0.5,
+        "asin": "B0DYP6CLL7",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0DYP5QTS1": {
+        "weight": 1.0,
+        "asin": "B0DYP5QTS1",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0DYP4DLNB": {
+        "weight": 1.5,
+        "asin": "B0DYP4DLNB",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0DYP5QVW8": {
+        "weight": 2.0,
+        "asin": "B0DYP5QVW8",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      }
+    },
+    "RAGI_ATTA": {
+      "B0F8W7HLQ6": {
+        "weight": 1.0,
+        "asin": "B0F8W7HLQ6",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0F8W63B6C": {
+        "weight": 2.0,
+        "asin": "B0F8W63B6C",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0F8WBLBKS": {
+        "weight": 3.0,
+        "asin": "B0F8WBLBKS",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      }
+    },
+    "CHATPATA_MASALA_CHANA": {
+      "B0F9YHP79C": {
+        "weight": 0.25,
+        "asin": "B0F9YHP79C",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0F9YF9ZZN": {
+        "weight": 0.5,
+        "asin": "B0F9YF9ZZN",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0F9YGS1GY": {
+        "weight": 1.0,
+        "asin": "B0F9YGS1GY",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      }
+    },
+    "ARWA_CHAWAL": {
+      "B0F9YR7SQT": {
+        "weight": 1.0,
+        "asin": "B0F9YR7SQT",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0F9YPQCR8": {
+        "weight": 2.0,
+        "asin": "B0F9YPQCR8",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0F9YR81BZ": {
+        "weight": 5.0,
+        "asin": "B0F9YR81BZ",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      }
+    },
+    "JAU_ATTA": {
+      "B0FBHRZ1PQ": {
+        "weight": 1.0,
+        "asin": "B0FBHRZ1PQ",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0FBHSCGPD": {
+        "weight": 2.0,
+        "asin": "B0FBHSCGPD",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0FBJ2V43Y": {
+        "weight": 3.0,
+        "asin": "B0FBJ2V43Y",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      }
+    },
+    "MAKAI_ATTA": {
+      "B0FBKFHQ44": {
+        "weight": 1.0,
+        "asin": "B0FBKFHQ44",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0FBKDTM51": {
+        "weight": 2.0,
+        "asin": "B0FBKDTM51",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0FBKDZY5F": {
+        "weight": 3.0,
+        "asin": "B0FBKDZY5F",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      }
+    },
+    "RICE_ATTA": {
+      "B0FBKCLZZS": {
+        "weight": 1.0,
+        "asin": "B0FBKCLZZS",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0FBKDWK6M": {
+        "weight": 2.0,
+        "asin": "B0FBKDWK6M",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0FBKD14MH": {
+        "weight": 3.0,
+        "asin": "B0FBKD14MH",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      }
+    },
+    "JAU_SATTU": {
+      "B0FCZK156M": {
+        "weight": 0.5,
+        "asin": "B0FCZK156M",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0FD1BPYT3": {
+        "weight": 1.0,
+        "asin": "B0FD1BPYT3",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      },
+      "B0FCZS5F82": {
+        "weight": 2.0,
+        "asin": "B0FCZS5F82",
+        "description": "nan",
+        "mrp": NaN,
+        "category": "nan",
+        "notes": "nan"
+      }
+    }
+  },
+  "daily_opening_stock": {
+    "2025-07-25": {
+      "SATTU": {
+        "loose_stock": 0,
+        "packed_stock": {
+          "B0CWGY2LCP": 0,
+          "B0DK1H56P3": 0,
+          "B0DYVJ8PGL": 0,
+          "B0CWGXYLT6": 0,
+          "B0DK1LJ3N3": 0
+        }
+      },
+      "ROASTED_CHANA": {
+        "loose_stock": 0,
+        "packed_stock": {
+          "B0DDJK1VW4": 0,
+          "B0CY88658Y": 0,
+          "B0CY84RYRG": 0,
+          "B0CY84YB45": 0,
+          "B0CY85DH38": 0
+        }
+      },
+      "GOVIND_BHOG_RICE": {
+        "loose_stock": 0,
+        "packed_stock": {
+          "B0D11KTZ1X": 0,
+          "B0DDJJ8TYJ": 0,
+          "B0DDJK3LXC": 0,
+          "B0DDJHN6PD": 0,
+          "B0D11K2CVX": 0
+        }
+      },
+      "KATARNI_CHUDA": {
+        "loose_stock": 0,
+        "packed_stock": {
+          "B0DDJJCRP8": 0,
+          "B0DCCL1531": 0,
+          "B0DDJH9MX5": 0,
+          "B0D1VPNHZL": 0
+        }
+      },
+      "MOORI": {
+        "loose_stock": 0,
+        "packed_stock": {
+          "B0D8157HND": 0,
+          "B0D817HX57": 0,
+          "B0D8153SJN": 0,
+          "B0DYVHTS3T": 0
+        }
+      },
+      "MAKHANA": {
+        "loose_stock": 0,
+        "packed_stock": {
+          "B0DDTYNC85": 0,
+          "B0DDTWVB98": 0,
+          "B0DDTWSHXP": 0
+        }
+      },
+      "USNA_CHAWAL": {
+        "loose_stock": 0,
+        "packed_stock": {
+          "B0DF5PHH3K": 0,
+          "B0DF5Q9VBV": 0,
+          "B0DF5LY1W7": 0,
+          "B0DF5PYWJ9": 0,
+          "B0DF5MNP4Q": 0
+        }
+      },
+      "POWER_PUNCH": {
+        "loose_stock": 0,
+        "packed_stock": {
+          "B0DK6TCBB1": 0,
+          "B0DK6V3MZ1": 0,
+          "B0DK6T745Y": 0,
+          "B0DK6V5Z4W": 0
+        }
+      },
+      "HERBAL_GULAL": {
+        "loose_stock": 0,
+        "packed_stock": {
+          "B0DVCV6PBP": 0
+        }
+      },
+      "PERI_PERI_CHANA": {
+        "loose_stock": 0,
+        "packed_stock": {
+          "B0DWF8SFWY": 0,
+          "B0DWF8D1YQ": 0,
+          "B0DWF9ZPQG": 0
+        }
+      },
+      "CHEESE_&_CREAM_CHANA": {
+        "loose_stock": 0,
+        "packed_stock": {
+          "B0DWF9CDVW": 0,
+          "B0DWFBSH89": 0,
+          "B0DWF5MT34": 0
+        }
+      },
+      "NIMBU_PUDINA_CHANA": {
+        "loose_stock": 0,
+        "packed_stock": {
+          "B0DWF8RCHZ": 0,
+          "B0DWF8DS3F": 0,
+          "B0DWF9Z6F2": 0
+        }
+      },
+      "HING_JEERA_CHANA": {
+        "loose_stock": 0,
+        "packed_stock": {
+          "B0DWFGYRZ7": 0,
+          "B0DWF8TDGV": 0,
+          "B0DWF7SZJN": 0
+        }
+      },
+      "SINGHARA_ATTA": {
+        "loose_stock": 0,
+        "packed_stock": {
+          "B0DWK8VBGJ": 0,
+          "B0DWK8K6FZ": 0,
+          "B0DWK9S8SB": 0,
+          "B0DWKBCJY1": 0
+        }
+      },
+      "KATARNI_ARWA_RICE": {
+        "loose_stock": 0,
+        "packed_stock": {
+          "B0DXQBYB35": 0,
+          "B0DXQCR5RW": 0,
+          "B0DXQC2349": 0,
+          "B0DXQBD78C": 0,
+          "B0DXQCPD4R": 0
+        }
+      },
+      "JEERA_SATTU": {
+        "loose_stock": 0,
+        "packed_stock": {
+          "B0DYP6CLL7": 0,
+          "B0DYP5QTS1": 0,
+          "B0DYP4DLNB": 0,
+          "B0DYP5QVW8": 0
+        }
+      },
+      "RAGI_ATTA": {
+        "loose_stock": 0,
+        "packed_stock": {
+          "B0F8W7HLQ6": 0,
+          "B0F8W63B6C": 0,
+          "B0F8WBLBKS": 0
+        }
+      },
+      "CHATPATA_MASALA_CHANA": {
+        "loose_stock": 0,
+        "packed_stock": {
+          "B0F9YHP79C": 0,
+          "B0F9YF9ZZN": 0,
+          "B0F9YGS1GY": 0
+        }
+      },
+      "ARWA_CHAWAL": {
+        "loose_stock": 0,
+        "packed_stock": {
+          "B0F9YR7SQT": 0,
+          "B0F9YPQCR8": 0,
+          "B0F9YR81BZ": 0
+        }
+      },
+      "JAU_ATTA": {
+        "loose_stock": 0,
+        "packed_stock": {
+          "B0FBHRZ1PQ": 0,
+          "B0FBHSCGPD": 0,
+          "B0FBJ2V43Y": 0
+        }
+      },
+      "MAKAI_ATTA": {
+        "loose_stock": 0,
+        "packed_stock": {
+          "B0FBKFHQ44": 0,
+          "B0FBKDTM51": 0,
+          "B0FBKDZY5F": 0
+        }
+      },
+      "RICE_ATTA": {
+        "loose_stock": 0,
+        "packed_stock": {
+          "B0FBKCLZZS": 0,
+          "B0FBKDWK6M": 0,
+          "B0FBKD14MH": 0
+        }
+      },
+      "JAU_SATTU": {
+        "loose_stock": 0,
+        "packed_stock": {
+          "B0FCZK156M": 0,
+          "B0FD1BPYT3": 0,
+          "B0FCZS5F82": 0
+        }
+      }
+    }
+  },
+  "return_data": {
+    "SATTU": {
+      "loose_return": {
+        "good": 0,
+        "bad": 0
+      },
+      "packed_return": {
+        "B0CWGY2LCP": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0DK1H56P3": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0DYVJ8PGL": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0CWGXYLT6": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0DK1LJ3N3": {
+          "good": 0,
+          "bad": 0
+        }
+      }
+    },
+    "ROASTED_CHANA": {
+      "loose_return": {
+        "good": 0,
+        "bad": 0
+      },
+      "packed_return": {
+        "B0DDJK1VW4": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0CY88658Y": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0CY84RYRG": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0CY84YB45": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0CY85DH38": {
+          "good": 0,
+          "bad": 0
+        }
+      }
+    },
+    "GOVIND_BHOG_RICE": {
+      "loose_return": {
+        "good": 0,
+        "bad": 0
+      },
+      "packed_return": {
+        "B0D11KTZ1X": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0DDJJ8TYJ": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0DDJK3LXC": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0DDJHN6PD": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0D11K2CVX": {
+          "good": 0,
+          "bad": 0
+        }
+      }
+    },
+    "KATARNI_CHUDA": {
+      "loose_return": {
+        "good": 0,
+        "bad": 0
+      },
+      "packed_return": {
+        "B0DDJJCRP8": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0DCCL1531": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0DDJH9MX5": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0D1VPNHZL": {
+          "good": 0,
+          "bad": 0
+        }
+      }
+    },
+    "MOORI": {
+      "loose_return": {
+        "good": 0,
+        "bad": 0
+      },
+      "packed_return": {
+        "B0D8157HND": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0D817HX57": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0D8153SJN": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0DYVHTS3T": {
+          "good": 0,
+          "bad": 0
+        }
+      }
+    },
+    "MAKHANA": {
+      "loose_return": {
+        "good": 0,
+        "bad": 0
+      },
+      "packed_return": {
+        "B0DDTYNC85": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0DDTWVB98": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0DDTWSHXP": {
+          "good": 0,
+          "bad": 0
+        }
+      }
+    },
+    "USNA_CHAWAL": {
+      "loose_return": {
+        "good": 0,
+        "bad": 0
+      },
+      "packed_return": {
+        "B0DF5PHH3K": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0DF5Q9VBV": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0DF5LY1W7": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0DF5PYWJ9": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0DF5MNP4Q": {
+          "good": 0,
+          "bad": 0
+        }
+      }
+    },
+    "POWER_PUNCH": {
+      "loose_return": {
+        "good": 0,
+        "bad": 0
+      },
+      "packed_return": {
+        "B0DK6TCBB1": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0DK6V3MZ1": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0DK6T745Y": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0DK6V5Z4W": {
+          "good": 0,
+          "bad": 0
+        }
+      }
+    },
+    "HERBAL_GULAL": {
+      "loose_return": {
+        "good": 0,
+        "bad": 0
+      },
+      "packed_return": {
+        "B0DVCV6PBP": {
+          "good": 0,
+          "bad": 0
+        }
+      }
+    },
+    "PERI_PERI_CHANA": {
+      "loose_return": {
+        "good": 0,
+        "bad": 0
+      },
+      "packed_return": {
+        "B0DWF8SFWY": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0DWF8D1YQ": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0DWF9ZPQG": {
+          "good": 0,
+          "bad": 0
+        }
+      }
+    },
+    "CHEESE_&_CREAM_CHANA": {
+      "loose_return": {
+        "good": 0,
+        "bad": 0
+      },
+      "packed_return": {
+        "B0DWF9CDVW": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0DWFBSH89": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0DWF5MT34": {
+          "good": 0,
+          "bad": 0
+        }
+      }
+    },
+    "NIMBU_PUDINA_CHANA": {
+      "loose_return": {
+        "good": 0,
+        "bad": 0
+      },
+      "packed_return": {
+        "B0DWF8RCHZ": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0DWF8DS3F": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0DWF9Z6F2": {
+          "good": 0,
+          "bad": 0
+        }
+      }
+    },
+    "HING_JEERA_CHANA": {
+      "loose_return": {
+        "good": 0,
+        "bad": 0
+      },
+      "packed_return": {
+        "B0DWFGYRZ7": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0DWF8TDGV": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0DWF7SZJN": {
+          "good": 0,
+          "bad": 0
+        }
+      }
+    },
+    "SINGHARA_ATTA": {
+      "loose_return": {
+        "good": 0,
+        "bad": 0
+      },
+      "packed_return": {
+        "B0DWK8VBGJ": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0DWK8K6FZ": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0DWK9S8SB": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0DWKBCJY1": {
+          "good": 0,
+          "bad": 0
+        }
+      }
+    },
+    "KATARNI_ARWA_RICE": {
+      "loose_return": {
+        "good": 0,
+        "bad": 0
+      },
+      "packed_return": {
+        "B0DXQBYB35": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0DXQCR5RW": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0DXQC2349": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0DXQBD78C": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0DXQCPD4R": {
+          "good": 0,
+          "bad": 0
+        }
+      }
+    },
+    "JEERA_SATTU": {
+      "loose_return": {
+        "good": 0,
+        "bad": 0
+      },
+      "packed_return": {
+        "B0DYP6CLL7": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0DYP5QTS1": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0DYP4DLNB": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0DYP5QVW8": {
+          "good": 0,
+          "bad": 0
+        }
+      }
+    },
+    "RAGI_ATTA": {
+      "loose_return": {
+        "good": 0,
+        "bad": 0
+      },
+      "packed_return": {
+        "B0F8W7HLQ6": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0F8W63B6C": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0F8WBLBKS": {
+          "good": 0,
+          "bad": 0
+        }
+      }
+    },
+    "CHATPATA_MASALA_CHANA": {
+      "loose_return": {
+        "good": 0,
+        "bad": 0
+      },
+      "packed_return": {
+        "B0F9YHP79C": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0F9YF9ZZN": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0F9YGS1GY": {
+          "good": 0,
+          "bad": 0
+        }
+      }
+    },
+    "ARWA_CHAWAL": {
+      "loose_return": {
+        "good": 0,
+        "bad": 0
+      },
+      "packed_return": {
+        "B0F9YR7SQT": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0F9YPQCR8": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0F9YR81BZ": {
+          "good": 0,
+          "bad": 0
+        }
+      }
+    },
+    "JAU_ATTA": {
+      "loose_return": {
+        "good": 0,
+        "bad": 0
+      },
+      "packed_return": {
+        "B0FBHRZ1PQ": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0FBHSCGPD": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0FBJ2V43Y": {
+          "good": 0,
+          "bad": 0
+        }
+      }
+    },
+    "MAKAI_ATTA": {
+      "loose_return": {
+        "good": 0,
+        "bad": 0
+      },
+      "packed_return": {
+        "B0FBKFHQ44": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0FBKDTM51": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0FBKDZY5F": {
+          "good": 0,
+          "bad": 0
+        }
+      }
+    },
+    "RICE_ATTA": {
+      "loose_return": {
+        "good": 0,
+        "bad": 0
+      },
+      "packed_return": {
+        "B0FBKCLZZS": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0FBKDWK6M": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0FBKD14MH": {
+          "good": 0,
+          "bad": 0
+        }
+      }
+    },
+    "JAU_SATTU": {
+      "loose_return": {
+        "good": 0,
+        "bad": 0
+      },
+      "packed_return": {
+        "B0FCZK156M": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0FD1BPYT3": {
+          "good": 0,
+          "bad": 0
+        },
+        "B0FCZS5F82": {
+          "good": 0,
+          "bad": 0
+        }
+      }
+    }
+  },
+  "return_transactions": [],
+  "last_updated": "2025-07-25T22:21:47.236890"
+}

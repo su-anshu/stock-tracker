@@ -1,0 +1,12 @@
+streamlit
+pandas
+plotly
+gspread
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+openpyxl
+xlrd
+numpy
+datetime
+json5
